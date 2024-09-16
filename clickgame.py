@@ -31,7 +31,7 @@ def pre_time(counter):
 squares = (5, 5)
 size = (50, 50)
 score = 0
-counter = 30  # seconds
+counter = 30
 storage = render_board(squares, size)
 reset = True
 running = True
